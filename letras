@@ -1,0 +1,109 @@
+letra = input("Digite uma letra do alfabeto: ")
+
+if letra == 'a':
+    print("Letra em Maiusculo = A")
+elif letra == 'b':
+    print("Letra em Maiusculo = B")
+elif letra == 'c':
+    print("Letra em Maiusculo = C")
+elif letra == 'd':
+    print("Letra em Maiusculo = D")
+elif letra == 'e':
+    print("Letra em Maiusculo = E")
+elif letra == 'f':
+    print("Letra em Maiusculo = F")
+elif letra == 'g':
+    print("Letra em Maiusculo = G")
+elif letra == 'h':
+    print("Letra em Maiusculo = H")
+elif letra == 'i':
+    print("Letra em Maiusculo = I")
+elif letra == 'j':
+    print("Letra em Maiusculo = J")
+elif letra == 'k':
+    print("Letra em Maiusculo = K")
+elif letra == 'l':
+    print("Letra em Maiusculo = L")
+elif letra == 'm':
+    print("Letra em Maiusculo = M")
+elif letra == 'n':
+    print("Letra em Maiusculo = N")
+elif letra == 'o':
+    print("Letra em Maiusculo = O")
+elif letra == 'p':
+    print("Letra em Maiusculo = P")
+elif letra == 'q':
+    print("Letra em Maiusculo = Q")
+elif letra == 'r':
+    print("Letra em Maiusculo = R")
+elif letra == 's':
+    print("Letra em Maiusculo = S")
+elif letra == 't':
+    print("Letra em Maiusculo = T")
+elif letra == 'u':
+    print("Letra em Maiusculo = U")
+elif letra == 'v':
+    print("Letra em Maiusculo = V")
+elif letra == 'w':
+    print("Letra em Maiusculo = W")
+elif letra == 'x':
+    print("Letra em Maiusculo = X")
+elif letra == 'y':
+    print("Letra em Maiusculo = Y")
+elif letra == 'z':
+    print("Letra em Maiusculo = Z")
+    
+elif letra == 'A':
+    print("Letra em Minúsculo = a")
+elif letra == 'B':
+    print("Letra em Minúsculo = b")
+elif letra == 'C':
+    print("Letra em Minúsculo = c")
+elif letra == 'D':
+    print("Letra em Minúsculo = d")
+elif letra == 'E':
+    print("Letra em Minúsculo = e")
+elif letra == 'F':
+    print("Letra em Minúsculo = f")
+elif letra == 'G':
+    print("Letra em Minúsculo = g")
+elif letra == 'H':
+    print("Letra em Minúsculo = h")
+elif letra == 'I':
+    print("Letra em Minúsculo = i")
+elif letra == 'J':
+    print("Letra em Minúsculo = j")
+elif letra == 'K':
+    print("Letra em Minúsculo = k")
+elif letra == 'L':
+    print("Letra em Minúsculo = l")
+elif letra == 'M':
+    print("Letra em Minúsculo = m")
+elif letra == 'N':
+    print("Letra em Minúsculo = n")
+elif letra == 'O':
+    print("Letra em Minúsculo = o")
+elif letra == 'P':
+    print("Letra em Minúsculo = p")
+elif letra == 'Q':
+    print("Letra em Minúsculo = q")
+elif letra == 'R':
+    print("Letra em Minúsculo = r")
+elif letra == 'S':
+    print("Letra em Minúsculo = s")
+elif letra == 'T':
+    print("Letra em Minúsculo = t")
+elif letra == 'U':
+    print("Letra em Minúsculo = u")
+elif letra == 'V':
+    print("Letra em Minúsculo = v")
+elif letra == 'W':
+    print("Letra em Minúsculo = w")
+elif letra == 'X':
+    print("Letra em Minúsculo = x")
+elif letra == 'Y':
+    print("Letra em Minúsculo = y")
+elif letra == 'Z':
+    print("Letra em Minúsculo = z")
+else:
+    print("Dado inserido inválido! Por favor digite uma letra válida.")
